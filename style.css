@@ -5,7 +5,7 @@
 
 
 body{
-    background-color: rgb(17, 17, 17);
+    background-color: rgb();
     color: aliceblue;
     display: flex;
     justify-content: space-around;
@@ -23,4 +23,12 @@ body{
     margin: 0% 16pcx;
     font-size: 24px;
 
+}
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient();
 }
